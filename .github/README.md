@@ -1,5 +1,0 @@
-- 👋 Hey I’m @jggatter
-- 👀 I’m interested in engineering solutions to problems in biology and chemistry
-- 🌱 I’m currently learning Typescript, React, SQLAlchemy, AWS, and Rust
-- 💞️ I’m looking to collaborate on bioinformatic projects and any tech-learning experiences! 
-- 📫 For now you can best reach me through [LinkedIn](https://www.linkedin.com/in/jamesgatter/)!
